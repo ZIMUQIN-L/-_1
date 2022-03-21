@@ -1,0 +1,2 @@
+# BUAA_Database_1
+基于MySQL和Vue开发的教务管理系统
